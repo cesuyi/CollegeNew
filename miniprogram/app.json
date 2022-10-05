@@ -48,7 +48,7 @@
 		"backgroundColor": "#f1f1f1",
 		"backgroundTextStyle": "dark",
 		"navigationBarBackgroundColor": "#5D94BF",
-		"navigationBarTitleText": "职业学校报名小程序",
+		"navigationBarTitleText": "大学社团招新小程序",
 		"navigationBarTextStyle": "white"
 	},
 	"tabBar": {
