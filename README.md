@@ -3,7 +3,7 @@
  大学社团招新小程序，又是一年开学季，万众瞩目的社团招新又开始啦！社团涵盖了文化体育、学术科技、志愿公益等方面。面对着琳琅满目的社团活动，你会pick哪一个呢？本系统前后端完整，主要功能包括公告通知，社团风采，社团招新列表，社团培训列表，社团活动列表，社团简介，我的报名，后台招新/培训/活动项目管理，后台通知管理，后台管理员管理等功能，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
 
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/116699313/198164371-e3350fb7-1945-4675-b539-a55cdf19dabd.png)
 
 
 ## 技术运用
@@ -13,18 +13,14 @@
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，不会 DDOS攻击，节省防火墙费用，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
-![输入图片说明](demo/%E5%A4%A7%E5%AD%A6%E7%A4%BE%E5%9B%A2%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).jpeg)
+ ![image](https://user-images.githubusercontent.com/116699313/198164380-937be607-45a3-4f0f-9678-b060ca4835de.png)
 
-## 作者
-- 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信: 
  
-![输入图片说明](demo/author.jpg)
 
 
 ## 演示 
  
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/116699313/198164395-547253bc-6d3d-496b-a3cb-d5ef9531a6bd.png)
 
 ## 安装
 
@@ -34,25 +30,26 @@
 
 
 ## 截图
- 
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E7%A4%BE%E5%9B%A2%E5%85%AC%E5%91%8A.png)
-![输入图片说明](demo/3%E7%A4%BE%E5%9B%A2%E9%A3%8E%E9%87%87.jpg)
-![输入图片说明](demo/4%E6%8B%9B%E6%96%B0%E6%8A%A5%E5%90%8D.png)
-![输入图片说明](demo/5%E7%A4%BE%E5%9B%A2%E5%9F%B9%E8%AE%AD.png)
-![输入图片说明](demo/6%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8.png)
-![输入图片说明](demo/7%E6%8A%A5%E5%90%8D%E8%AF%A6%E6%83%85.png)
+ ![image](https://user-images.githubusercontent.com/116699313/198164409-c79d021c-7f51-4872-b084-e4014d91e7d9.png)
 
-![输入图片说明](demo/8%E6%8A%A5%E5%90%8D.png)
-![输入图片说明](demo/9%E6%88%91%E7%9A%84.png)
+ ![image](https://user-images.githubusercontent.com/116699313/198164418-265fd92d-7b72-4880-a7d5-3618f4984d46.png)
 
+![image](https://user-images.githubusercontent.com/116699313/198164422-164c9b3c-06a1-4f40-929f-09c36e458579.png)
+![image](https://user-images.githubusercontent.com/116699313/198164431-c51e37da-4735-4d23-bb1d-5e3508fb7f06.png)
+![image](https://user-images.githubusercontent.com/116699313/198164439-463f9221-d29a-4dbc-bcbb-11b7dc5ee02b.png)
+![image](https://user-images.githubusercontent.com/116699313/198164445-60a0d933-549b-4f74-915f-f29d1b129812.png)
+![image](https://user-images.githubusercontent.com/116699313/198164451-14301cdd-ba68-464f-bd77-b21db73438c0.png)
+![image](https://user-images.githubusercontent.com/116699313/198164456-b49a8d36-67fd-43ee-a123-3ea247e2e17a.png)
+![image](https://user-images.githubusercontent.com/116699313/198164463-be3e1d59-9e0b-4b5e-abed-4022e6ace9af.png)
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
+ ![image](https://user-images.githubusercontent.com/116699313/198164472-18746883-c3ae-4cfc-b243-643a4e3f1e1e.png)
+![image](https://user-images.githubusercontent.com/116699313/198164478-8acd69d6-7148-409b-bc50-7c0df9475f28.png)
+![image](https://user-images.githubusercontent.com/116699313/198164485-1ccc2b4a-bffc-449f-bcd3-c2af47d0c5b3.png)
+![image](https://user-images.githubusercontent.com/116699313/198164492-1816ca68-0a6c-46cd-9a00-2be44f1990f6.png)
+![image](https://user-images.githubusercontent.com/116699313/198164499-aadfab4e-f098-4c54-ba27-dd51e097d623.png)
+![image](https://user-images.githubusercontent.com/116699313/198164505-247aaec1-4cc9-4782-bdad-476bf6006e1c.png)
 
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E6%8A%A5%E5%90%8D%E6%B7%BB%E5%8A%A0.png)
+
+
